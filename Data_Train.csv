@@ -790,7 +790,7 @@ ID_3023,"Delhi High Court, India Gate","North Indian, Italian, Continental",?200
 ID_7285,"Mico Layout, Stage 2, BTM Layout,Bangalore","Andhra, North Indian, Chinese",?300,?50,3.6,173,85,65 minutes
 ID_5429,"D-Block, Sector 63, Noida","Chinese, Momos",?250,?50,NEW,-,-,30 minutes
 ID_6261,"Sector 14, Noida","North Indian, Chinese, Rolls, Momos",?150,?50,4.1,318,235,65 minutes
-ID_825,"Sector 14, Noida","Chinese, Sushi, Thai, Pok‚, Asian",?400,?50,4.1,51,38,30 minutes
+ID_825,"Sector 14, Noida","Chinese, Sushi, Thai, Pokâ€š, Asian",?400,?50,4.1,51,38,30 minutes
 ID_3495,"D-Block, Sector 63, Noida",Fast Food,?100,?50,4.0,394,207,45 minutes
 ID_7548,Majestic,Paan,?150,?50,3.9,22,13,30 minutes
 ID_4886,Pune University,Fast Food,?200,?50,-,-,-,30 minutes
@@ -3769,7 +3769,7 @@ ID_3141,"Sandhurst Road, Mumbai CST Area","Bakery, Cafe",?200,?50,3.6,289,113,45
 ID_2254,"Chandni Chowk, Kolkata",South Indian,?150,?50,3.4,20,10,30 minutes
 ID_6822,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan",North Indian,?100,?50,3.6,37,8,30 minutes
 ID_8174,"Panjetan Colony, Malakpet, Hyderabad",South Indian,?150,?50,3.6,22,8,30 minutes
-ID_213,"Sector 63A,Gurgaon","Asian, Thai, Japanese, Pok‚",?600,?50,4.9,475,397,65 minutes
+ID_213,"Sector 63A,Gurgaon","Asian, Thai, Japanese, Pokâ€š",?600,?50,4.9,475,397,65 minutes
 ID_136,"D-Block, Sector 63, Noida","North Indian, Chinese",?150,?50,3.2,6,4,30 minutes
 ID_8315,Mumbai Central,Fast Food,?200,?50,3.5,22,17,30 minutes
 ID_4716,"Sector 3, Marathalli","Pizza, Fast Food",?200,?50,3.9,108,60,30 minutes
@@ -4484,7 +4484,7 @@ ID_5111,Delhi University-GTB Nagar,"Biryani, North Indian, Mughlai, Kebab, Rolls
 ID_7295,"D-Block, Sector 63, Noida","Bakery, Desserts",?150,?50,3.8,51,27,45 minutes
 ID_6793,"Sector 3, Marathalli","North Indian, Chinese",?150,?50,3.4,8,3,30 minutes
 ID_1514,"Delhi Administration Flats, Timarpur",Street Food,?50,?50,3.6,55,11,45 minutes
-ID_519,"D-Block, Sector 63, Noida","Chinese, Momos, Sushi, Thai, Asian, Pok‚, Vietnamese, Japanese",?300,?50,4.1,580,342,45 minutes
+ID_519,"D-Block, Sector 63, Noida","Chinese, Momos, Sushi, Thai, Asian, Pokâ€š, Vietnamese, Japanese",?300,?50,4.1,580,342,45 minutes
 ID_3747,"Sector 3, Marathalli","Mithai, Fast Food",?100,?50,3.5,13,4,30 minutes
 ID_449,"Chandni Chowk, Kolkata",North Indian,?200,?50,3.9,709,133,30 minutes
 ID_2554,"Yerawada, Pune, Maharashtra",Healthy Food,?200,?99,3.0,33,9,30 minutes
@@ -4506,7 +4506,7 @@ ID_5440,"MG Road, Pune","Italian, Beverages",?300,?50,3.5,12,5,30 minutes
 ID_1063,"Sector 3, Marathalli","Beverages, Ice Cream, Coffee",?200,?50,4.2,45,13,30 minutes
 ID_1481,"Sector 3, Marathalli","Cafe, Tea, Beverages",?150,?50,3.0,69,30,30 minutes
 ID_889,"Delhi High Court, India Gate","Biryani, Mughlai, Kebab, North Indian",?350,?99,4.1,608,467,120 minutes
-ID_2456,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Asian, Chinese, Sushi, Thai, Japanese, Pok‚",?400,?99,4.4,567,348,45 minutes
+ID_2456,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Asian, Chinese, Sushi, Thai, Japanese, Pokâ€š",?400,?99,4.4,567,348,45 minutes
 ID_7738,"Sector 63A,Gurgaon","Continental, Beverages, Desserts",?250,?50,3.5,-,-,30 minutes
 ID_4302,"FTI College, Law College Road, Pune","Cafe, French, European, Desserts, Salad",?350,?50,4.5,866,503,45 minutes
 ID_925,"D-Block, Sector 63, Noida",Biryani,?200,?50,3.7,72,49,30 minutes
@@ -5505,7 +5505,7 @@ ID_3717,"Chandni Chowk, Kolkata","Biryani, North Indian, Rolls",?250,?50,2.9,50,
 ID_2692,"D-Block, Sector 63, Noida","North Indian, Fast Food, Rolls",?200,?50,3.7,41,33,30 minutes
 ID_4413,"Mico Layout, Stage 2, BTM Layout,Bangalore",Cafe,?200,?99,3.4,13,8,45 minutes
 ID_807,Delhi Cantt.,Fast Food,?150,?50,4.0,244,155,65 minutes
-ID_519,"Sector 14, Noida","Chinese, Momos, Sushi, Thai, Asian, Pok‚, Vietnamese, Japanese",?300,?50,4.0,608,380,45 minutes
+ID_519,"Sector 14, Noida","Chinese, Momos, Sushi, Thai, Asian, Pokâ€š, Vietnamese, Japanese",?300,?50,4.0,608,380,45 minutes
 ID_4467,"Sector 63A,Gurgaon","Cafe, Continental, Salad, Bakery, Italian",?450,?50,4.1,718,426,45 minutes
 ID_2829,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","North Indian, South Indian, Fast Food",?200,?50,3.0,96,21,65 minutes
 ID_3116,"Babarpur, New Delhi, Delhi","Mithai, Street Food, North Indian, South Indian, Bakery, Chinese, Fast Food",?250,?50,4.0,881,291,30 minutes
@@ -6914,7 +6914,7 @@ ID_6590,Delhi University-GTB Nagar,"Chinese, North Indian",?150,?50,3.7,39,22,30
 ID_1451,"Mico Layout, Stage 2, BTM Layout,Bangalore",Fast Food,?100,?50,-,-,-,30 minutes
 ID_3687,Delhi Cantt.,South Indian,?100,?50,3.6,59,16,30 minutes
 ID_4983,"Mico Layout, Stage 2, BTM Layout,Bangalore","North Indian, Chinese",?200,?50,3.7,171,92,45 minutes
-ID_3074,"Delhi High Court, India Gate","Japanese, Seafood, Sushi, Pok‚","?1,100",?50,4.3,1100,553,45 minutes
+ID_3074,"Delhi High Court, India Gate","Japanese, Seafood, Sushi, Pokâ€š","?1,100",?50,4.3,1100,553,45 minutes
 ID_2265,Delhi University-GTB Nagar,Biryani,?150,?50,3.5,31,8,30 minutes
 ID_1430,"Sector 14, Noida","North Indian, Chinese",?200,?50,3.7,123,40,45 minutes
 ID_1130,"Laxman Vihar Industrial Area, Sector 3A, Gurgoan","Burger, Sandwich",?150,?50,-,-,-,30 minutes
@@ -7919,7 +7919,7 @@ ID_6996,"D-Block, Sector 63, Noida","Fast Food, Beverages",?200,?50,3.8,105,50,4
 ID_7450,"Mico Layout, Stage 2, BTM Layout,Bangalore","Cafe, Continental",?400,?50,4.4,1820,1148,30 minutes
 ID_5284,"Delhi Administration Flats, Timarpur","Biryani, North Indian",?150,?50,NEW,-,-,30 minutes
 ID_1153,Delhi University-GTB Nagar,"Burger, Fast Food",?150,?50,3.6,374,87,45 minutes
-ID_519,"Sector 1, Noida","Chinese, Momos, Sushi, Thai, Asian, Pok‚, Vietnamese, Japanese",?300,?50,4.0,608,380,45 minutes
+ID_519,"Sector 1, Noida","Chinese, Momos, Sushi, Thai, Asian, Pokâ€š, Vietnamese, Japanese",?300,?50,4.0,608,380,45 minutes
 ID_693,Pune University,"Italian, Pizza",?250,?50,4.1,257,129,45 minutes
 ID_397,"Sector 3, Marathalli","Andhra, North Indian",?200,?50,3.8,96,41,65 minutes
 ID_3932,"Yerawada, Pune, Maharashtra",Street Food,?100,?50,3.6,238,153,30 minutes
@@ -8726,7 +8726,7 @@ ID_5466,"Sector 63A,Gurgaon","Italian, Tex-Mex, Bakery",?500,?50,3.8,29,18,30 mi
 ID_3090,Delhi Cantt.,South Indian,?100,?50,3.0,5,2,30 minutes
 ID_5708,Majestic,"Pizza, Fast Food, Italian",?300,?50,3.8,533,265,45 minutes
 ID_3055,"Nathan Road, Mangaldas Road, Pune",Desserts,?150,?50,3.8,18,15,30 minutes
-ID_825,"Sector 1, Noida","Chinese, Sushi, Thai, Pok‚, Asian",?400,?50,4.1,51,38,30 minutes
+ID_825,"Sector 1, Noida","Chinese, Sushi, Thai, Pokâ€š, Asian",?400,?50,4.1,51,38,30 minutes
 ID_7750,"Babarpur, New Delhi, Delhi","Asian, Biryani, North Indian, Desserts",?200,?50,3.3,4,2,30 minutes
 ID_1778,"Mico Layout, Stage 2, BTM Layout,Bangalore","Chinese, Thai, Momos",?200,?50,3.1,139,40,45 minutes
 ID_58,"D-Block, Sector 63, Noida","Fast Food, Ice Cream, Beverages",?200,?50,3.5,56,24,30 minutes
